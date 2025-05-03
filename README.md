@@ -32,24 +32,32 @@ The project includes the following visualizations, each created on a separate ta
 
 **Tab: Question 1 - Revenue Trend**
 
-* **Visual Type:** Line Chart
+ ![Visual Type](https://github.com/edigasreelekha/TATA-internship-Project/blob/main/Revenue%20Trend.png)
+
+  
 * **Purpose:** To visualize the trend of revenue over the months of the year 2011.
 
 **Tab: Question 2 - Top 10 Countries by Revenue vs. Quantity**
 
-* **Visual Type:** Side-by-Side Bar Chart
+ ![Visual Type](https://github.com/edigasreelekha/TATA-internship-Project/blob/main/Top%2010%20Countries.png)
+
+  
 * **Purpose:** To compare the total revenue and total quantity sold for the top 10 countries, excluding the United Kingdom.
 
 
 **Tab: Question 3 - Top 10 Customers by Revenue**
 
-* **Visual Type:** Vertical Bar Chart (Column Chart)
+ ![Visual Type](https://github.com/edigasreelekha/TATA-internship-Project/blob/main/Top%2010%20Customers.png)
+
+  
 * **Purpose:** To identify and rank the top 10 customers based on the total revenue they generated.
 
 
 **Tab: Question 4 - Global Units Sold by Country**
 
-* **Visual Type:** Map Chart (Choropleth Map)
+ ![Visual Type](https://github.com/edigasreelekha/TATA-internship-Project/blob/main/Total%20Units%20sold%20by%20country.png)
+
+  
 * **Purpose:** To visualize the total number of units sold in each country across the globe, excluding the United Kingdom.
 
 ## Software Used
@@ -73,7 +81,7 @@ The project includes the following visualizations, each created on a separate ta
 
 ## **Data Sources:**
 
-Dataset
+[Dataset](https://github.com/edigasreelekha/TATA-internship-Project/blob/main/Online%20Retail%20Data%20Set.xlsx)
 
 
 ## **Methodology:**
