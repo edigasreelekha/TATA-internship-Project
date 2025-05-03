@@ -64,3 +64,35 @@ The project includes the following visualizations, each created on a separate ta
 * Design interactive elements within the Power BI report.
 
 
+## Technical Details
+**Software Used:**
+
+* Power BI
+* MS Excel
+
+
+## **Data Sources:**
+
+Dataset
+
+
+## **Methodology:**
+
+* Data cleaning and preprocessing steps.
+* Statistical techniques used.
+* Power BI DAX functions used.
+* Dashboard design principles.
+
+## **Project Status**
+
+Completed
+
+## **Contact**
+
+Ediga Sreeelkha
+
+srilekhagowd8@gmail.com
+
+## **Acknowledgments**
+
+TATA (Forage) (for providing the internship and the dataset)
